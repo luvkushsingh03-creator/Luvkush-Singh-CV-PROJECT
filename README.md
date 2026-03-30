@@ -17,7 +17,7 @@ UI Framework: Streamlit
 📦 Installation & Setup
 Clone the Repository
 
-git clone 
+git clone https://github.com/luvkushsingh03-creator/Luvkush-Singh-CV-PROJECT
 cd CV_proj
 Install Dependencies (Note: Due to DeepFace, PyTorch, and TensorFlow, this installation is large).
 
