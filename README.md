@@ -1,6 +1,4 @@
-# Luvkush-Singh-CV-PROJECT
-
-VisionGuard: AI-Powered Driver Monitoring System
+#VisionGuard: AI-Powered Driver Monitoring System
 VisionGuard is a real-time Computer Vision solution designed to enhance road safety by monitoring driver attentiveness. It uses advanced Machine Learning models to detect signs of drowsiness, physical distraction (phone usage), and emotional state.
 
 VisionGuard Demo
